@@ -18,3 +18,6 @@ C:\Users\childebrant\Documents\SampleCSharpRESTClient\CsharpDotNet2-client\quick
 C:\Users\childebrant\Documents\SampleCSharpRESTClient\CsharpDotNet2-client\quickstart-dotnet\bin\Debug\Newtonsoft.Json.xml
 C:\Users\childebrant\Documents\SampleCSharpRESTClient\CsharpDotNet2-client\quickstart-dotnet\bin\Debug\RestSharp.xml
 C:\Users\childebrant\Documents\SampleCSharpRESTClient\CsharpDotNet2-client\quickstart-dotnet\obj\x86\Debug\Sample REST Client.csprojResolveAssemblyReference.cache
+C:\Users\childebrant\Documents\GitHub\quickstart-dotnet\bin\Debug\ConsoleApplication.exe.config
+C:\Users\childebrant\Documents\GitHub\quickstart-dotnet\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\childebrant\Documents\GitHub\quickstart-dotnet\obj\x86\Debug\ConsoleApplication.pdb
