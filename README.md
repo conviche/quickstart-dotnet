@@ -13,7 +13,7 @@ They are as follows:
 - Exercise 3: Upgrade a Subscription
 - Exercise 4: Cancel a Subscription
 
-### Zuora Test Drive
+### Zuora Test Drive:
 
 To complete this tutorial, you'll need a Zuora Test Drive tenant.
 
@@ -23,7 +23,8 @@ Go to [Zuora Test Drive](https://www.zuora.com/resource/zuora-test-drive/) and s
 ### Set-Up:  
 The generated code was imported into VisualStudio 2015 for the creation of this sample project. The following steps must be taken to ensure compilation within VisualStudio 2015:
 
-1. Change target framework to .NET 4.6.1 (Swagger generates to the .NET 2.0 framework but we use version 4.6.1 because it defaults to TLS 1.2)
+1. Change target framework to .NET 4.6.1 
+  - Swagger generates to the .NET 2.0 framework but we use version 4.6.1 because it defaults to TLS 1.2
 2. Add Newtonsoft package
   - Right-click project in the Solution Explorer -> Manage NuGet Packages... -> Search for Newtonsoft in the browse tab and install
 3. Add RestSharp package
@@ -40,7 +41,8 @@ The generated code was imported into VisualStudio 2015 for the creation of this 
    };
    ```
    - This prevents JsonConvert from serializing null values in the API objects which would otherwise cause the API calls to fail
-7. On line 233 of the ApplicationManager class replace the dummy username and password with the username and password for your Zuora Test Drive tenant.  
+7. On line 233 of the ApplicationManager class replace the dummy username and password with the username and password for your Zuora Test Drive tenant. 
+ 
 **This project has not been tested in any other C# IDEs and may require different steps if a different IDE is used**
 
 
