@@ -21,7 +21,7 @@ The Test Drive tenant comes with seed data, such as a sample product catalog, wh
 Go to [Zuora Test Drive](https://www.zuora.com/resource/zuora-test-drive/) and sign up for a tenant.
 
 ### Set-Up:  
-The generated code was imported into VisualStudio 2015 for the creation of this sample project. The following steps must be taken to ensure compilation within VisualStudio 2015:
+The generated code was imported into VisualStudio 2015 for the creation of this sample project. The following steps were taken to ensure compilation of the code generated from swagger within VisualStudio 2015:
 
 1. Change target framework to .NET 4.6.1 
   - Swagger generates to the .NET 2.0 framework but we use version 4.6.1 because it defaults to TLS 1.2
