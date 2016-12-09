@@ -243,8 +243,7 @@ namespace SampleRESTClient.src.main.CsharpDotNet2.IO.Swagger.Managers
 
             //Initialize the Application Manager which contains all methods and objects used for the QuickStart
             //TODO UPDATE WITH YOUR USERNAME AND PASSWORD FOR YOUR ZUORA TEST DRIVE TENANT
-            //ApplicationManager manager = new ApplicationManager("user@zuoratestdrive.com", "ZuoraTestDrivePassword");
-            ApplicationManager manager = new ApplicationManager("curtis.hildebrant+rbm@zuora.com", "P@ssw0rd1!");
+            ApplicationManager manager = new ApplicationManager("user@zuoratestdrive.com", "ZuoraTestDrivePassword");
 
             //Name of the initial product rate plan to be added in our new subscription
             String productRatePlan1Name = "Quarterly Plan";
