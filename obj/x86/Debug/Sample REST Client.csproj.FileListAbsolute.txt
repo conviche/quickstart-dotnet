@@ -1,1 +1,0 @@
-C:\Users\childebrant\Documents\SampleCSharpRESTClient\CsharpDotNet2-client\quickstart-dotnet\bin\Debug\ConsoleApplication.exe.config
